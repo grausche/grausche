@@ -1,12 +1,12 @@
-### Bonjour
+# Bonjour
 
 ## Tech Stack
 
-# Operatins Systems
+#### Operatins Systems
 - Mac OS
 - Windows
 
-## Some information
+#### Some information
 - I'm currently expanding my knowledge about HTML, CSS and JS and learning React.
 - Exploring the mysteries of a new world.
   
