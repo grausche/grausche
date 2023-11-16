@@ -1,7 +1,5 @@
 # Bonjour
 
-## Tech Stack
-
 #### Operatins Systems
 - Mac OS
 - Windows
