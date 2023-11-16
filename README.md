@@ -1,7 +1,15 @@
 ### Bonjour
 
-- I’m currently working on me
-- I’m currently learning JavaScript and CSS
+##Tech Stack
+
+Operatins Systems
+- Mac OS
+- Windows
+
+##What I do
+- I'm currently expanding my knowledge about HTML, CSS and JS and learning React.
+- Exploring the mysteries of a new world.
+  
 - Fun fact: "Joy is just a lack of information." - Nico Semsrott
 
 
