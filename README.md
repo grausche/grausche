@@ -3,7 +3,7 @@
 - Windows
 
 ###### Some information
-- I'm currently expanding my knowledge about HTML, CSS and JS and learning React.
+I'm currently expanding my knowledge about HTML, CSS and JS and learning React.
 
 > "Joy is just a lack of information."
 > Nico Semsrott
